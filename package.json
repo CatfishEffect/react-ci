@@ -1,6 +1,6 @@
 {
   "name": "git-action-demo",
-  "homepage": "https://catfisheffect.github.io/github-actions-demo",
+  "homepage": "https://catfisheffect.github.io/react-ci",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
